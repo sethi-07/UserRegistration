@@ -19,7 +19,7 @@ body {
   min-width: 320px;
   border: 1px solid antiquewhite;
 }
-h2 {
+h1,h2 {
   text-align: center;
   color: #016c9a;
   margin-bottom: 1.5rem;
